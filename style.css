@@ -1,0 +1,32 @@
+body {
+    padding-top: 70px;
+    background-color: #1B206A;
+}
+
+.navbar-inverse {
+    background-color: #20247F;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: floralwhite;
+}
+
+.navbar-inverse .navbar-brand {
+    color: floralwhite;
+}
+
+.jumbotron {
+    font-size: 10px;
+    font-family: serif;
+    background-color: #02022B;
+    color: #0E1D6B;
+}
+
+.height {
+    height: 0.8em;
+}
+
+.thumbnail {
+    border: solid 1px #02022B;
+    background-color: #02022B;
+}
